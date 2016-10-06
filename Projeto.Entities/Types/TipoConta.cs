@@ -9,6 +9,7 @@ namespace Projeto.Entities.Types
     public enum TipoConta
     {
         D,
-        C
+        C,
+        O
     }
 }
