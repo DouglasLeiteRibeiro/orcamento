@@ -1,0 +1,10 @@
+C:\Users\douglas\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.Entities\bin\Debug\Projeto.Entities.dll
+C:\Users\douglas\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.Entities\bin\Debug\Projeto.Entities.pdb
+C:\Users\douglas\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.Entities\obj\Debug\Projeto.Entities.csprojResolveAssemblyReference.cache
+C:\Users\douglas\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.Entities\obj\Debug\Projeto.Entities.dll
+C:\Users\douglas\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.Entities\obj\Debug\Projeto.Entities.pdb
+D:\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.Entities\bin\Debug\Projeto.Entities.dll
+D:\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.Entities\bin\Debug\Projeto.Entities.pdb
+D:\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.Entities\obj\Debug\Projeto.Entities.dll
+D:\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.Entities\obj\Debug\Projeto.Entities.pdb
+D:\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.Entities\obj\Debug\Projeto.Entities.csprojResolveAssemblyReference.cache

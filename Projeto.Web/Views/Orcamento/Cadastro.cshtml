@@ -1,0 +1,20 @@
+﻿@model Projeto.Web.Models.OrcamentoViewModelCadastro
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h4>Cadastro</h4>
+<a href="/Home/Index">Voltar</a> para a página inicial.
+<hr />
+
+@using (Html.BeginForm())
+{
+    <div class="text-danger">
+        @Html.ValidationSummary()
+
+    </div>
+
+
+
+}

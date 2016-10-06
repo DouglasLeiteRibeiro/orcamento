@@ -1,0 +1,10 @@
+C:\Users\douglas\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.BLL\bin\Debug\Projeto.BLL.dll
+C:\Users\douglas\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.BLL\bin\Debug\Projeto.BLL.pdb
+C:\Users\douglas\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.BLL\obj\Debug\Projeto.BLL.csprojResolveAssemblyReference.cache
+C:\Users\douglas\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.BLL\obj\Debug\Projeto.BLL.dll
+C:\Users\douglas\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.BLL\obj\Debug\Projeto.BLL.pdb
+D:\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.BLL\bin\Debug\Projeto.BLL.dll
+D:\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.BLL\bin\Debug\Projeto.BLL.pdb
+D:\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.BLL\obj\Debug\Projeto.BLL.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.BLL\obj\Debug\Projeto.BLL.dll
+D:\Dropbox\Projetos\OrcamentoBN\Orcamento\Projeto.BLL\obj\Debug\Projeto.BLL.pdb
